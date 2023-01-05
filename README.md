@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://github.com/rafiadiyana)
 <h1 align="center">Hi 👋, I'm Mochammad Rafi Adiyana</h1>
 <h3 align="center">Passionate programmer and Anime Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://c4.wallpaperflare.com/wallpaper/286/891/609/anime-c-programming-blue-eyes-book-cover-hd-wallpaper-preview.jpg">
